@@ -1,0 +1,6 @@
+# Ignorar todos los archivos en un directorio
+
+appreact/appjulian/node_modules
+# Pero rastrear específicamente un archivo en ese directorio
+
+appreact/appjulian/.expo

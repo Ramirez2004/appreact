@@ -1,0 +1,9 @@
+#reactgitlab
+Fue creado para un tabla de registro, adjuntando datos y lograr copilarlos en la base de datos
+
+#MysqlWorkbench
+Base de datos que se utilizo toda la agrupacion de datos
+
+#Important
+Todas las librerias fueron descargadas mayormente con npm y algunos comandos con npx
+
